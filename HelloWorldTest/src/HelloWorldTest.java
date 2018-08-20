@@ -1,6 +1,6 @@
 public class HelloWorldTest {
 
-    public static String message() {
+    public static String messageHelloWorld() {
 
         String message = "Hello World..!!";
         return message;
